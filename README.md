@@ -6,9 +6,10 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Gatsby version (don't use this one for the bootcamp portfolio)
+<!--## Gatsby version (don't use this one for the bootcamp portfolio)
 
 [Gatsby-portfolio-portfolio](https://github.com/smakosh/gatsby-portfolio-dev)
+-->
 
 ## Features
 
