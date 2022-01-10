@@ -15,14 +15,14 @@ const Skills = () => {
         <Thumbnail>
           <Image
             src={skillsIllustration}
-            alt="I’m John and I’m a Backend & Devops engineer!"
+            alt="I’m Roland and I’m a Backend & Devops engineer!"
           />
         </Thumbnail>
         <Details theme={theme}>
           <h1 data-cy="about">More about me</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry’s standard dummy.
+            This is completely a work in progress page - which I am currently
+            working on.
           </p>
           <Link href="#contact" passHref>
             <Button as="a">Hire me</Button>
